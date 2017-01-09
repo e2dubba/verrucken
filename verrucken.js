@@ -1,7 +1,7 @@
 // Vimperator Plugin: 'gtr'
 // Usuage: use :gtr
 
-document.addEvenListener('DOMContentLoaded',  function() {
+document.addEventListener('DOMContentLoaded',  function() {
     var checkPageButton = document.getElementById('getTranslation');
     checkPageButton.addEventListener('click', function(){
 
