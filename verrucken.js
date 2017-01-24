@@ -1,5 +1,6 @@
 // Vimperator Plugin: 'gtr'
 // Usuage: use :gtr
+// here is some things I need to implement https://gist.github.com/srsudar/e9a41228f06f32f272a2
 
 document.addEventListener('DOMContentLoaded',  function() {
     var checkPageButton = document.getElementById('getTranslation');
